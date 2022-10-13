@@ -1,6 +1,9 @@
 body {
     font-family: "Open Sans", sans-serif;
     color: #272829;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
 }
 
 a {
@@ -22,6 +25,87 @@ h5,
 h6 {
     font-family: "Raleway", sans-serif;
 }
+
+main{
+    background-color: #0A162C;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.about span{
+    /* background-color: #272829; */
+    display: flex;
+    padding-top: 1rem;
+    width: 40rem;
+    color: #CCCCCC;
+    /* height: 4rem; */
+}
+
+.aboutLeft h3{
+   color: #CCCCCC;
+   font-weight: bolder;
+
+}
+
+.aboutLeft p{
+    font-size: xx-large;
+    color: #23D997;
+
+}
+
+.aboutRight{
+    display: flex;
+    /* margin-left: -10rem; */
+
+    margin-top: 2rem;
+    width: 11rem;
+    height: 11rem;
+}
+
+
+.home{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+    justify-content: center;
+
+}
+
+.home span{
+    /* background-color: #272829; */
+    display: flex;
+    width: 40rem;
+    color: #CCCCCC;
+    margin-top: 1rem;
+    /* height: 4rem; */
+}
+
+.homeLeft h3{
+    color: #CCCCCC;
+    font-weight: bolder;
+ }
+
+.homeLeft p{
+    font-size: xx-large;
+    color: #23D997;
+
+}
+
+
+
+
+
+
+
+
 
 /* Side Navigation Bar */
 #header {
