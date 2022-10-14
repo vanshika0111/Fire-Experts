@@ -26,11 +26,11 @@ h6 {
     font-family: "Raleway", sans-serif;
 }
 
-main{
+main {
     background-color: #0A162C;
 }
 
-.about{
+.about {
     display: flex;
     flex-direction: row;
     /* justify-content: center; */
@@ -39,7 +39,7 @@ main{
 
 }
 
-.about span{
+.about span {
     /* background-color: #272829; */
     display: flex;
     padding-top: 1rem;
@@ -48,19 +48,19 @@ main{
     /* height: 4rem; */
 }
 
-.aboutLeft h3{
-   color: #CCCCCC;
-   font-weight: bolder;
+.aboutLeft h3 {
+    color: #CCCCCC;
+    font-weight: bolder;
 
 }
 
-.aboutLeft p{
+.aboutLeft p {
     font-size: xx-large;
     color: #23D997;
 
 }
 
-.aboutRight{
+.aboutRight {
     display: flex;
     /* margin-left: -10rem; */
 
@@ -70,7 +70,7 @@ main{
 }
 
 
-.home{
+.home {
     display: flex;
     flex-direction: row;
     /* justify-content: center; */
@@ -79,7 +79,7 @@ main{
 
 }
 
-.home span{
+.home span {
     /* background-color: #272829; */
     display: flex;
     width: 40rem;
@@ -89,13 +89,13 @@ main{
     /* height: 4rem; */
 }
 
-.homeLeft h3{
+.homeLeft h3 {
     color: #CCCCCC;
     font-weight: bolder;
     /* font-size: xx-large; */
- }
+}
 
-.homeLeft p{
+.homeLeft p {
     font-size: xx-large;
     color: #23D997;
 
@@ -385,4 +385,10 @@ section {
 
 .details input[type="submit"]:hover {
     background-color: #4caf4c;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    background-color: DodgerBlue;
 }
