@@ -65,8 +65,8 @@ main{
     /* margin-left: -10rem; */
 
     margin-top: 2rem;
-    width: 11rem;
-    height: 11rem;
+    /* width: 11rem; */
+    /* height: 11rem; */
 }
 
 
@@ -85,12 +85,14 @@ main{
     width: 40rem;
     color: #CCCCCC;
     margin-top: 1rem;
+
     /* height: 4rem; */
 }
 
 .homeLeft h3{
     color: #CCCCCC;
     font-weight: bolder;
+    /* font-size: xx-large; */
  }
 
 .homeLeft p{
