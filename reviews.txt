@@ -1,0 +1,40 @@
+1. Navbar
+    Company logo in navbar
+        - path: Images\logo.jpg
+    Check on click event on "Fire Experts" --> it redirects to another website
+    Page linking: href tags
+    Navbar should be fixed (sticky)
+    List of navbar: "Hero" --> hero section 
+                    "About"
+                    "Explore" --> button in about (Path: Explore.md)
+                    "Products" 
+                    "Testimonials" 
+                    "Reach Us" --> Forms (contact us + interview)
+                    "Contact" --> Footer
+
+2. About
+    - add a "Explore More button" to redirect to a new Page
+    - photo still not available
+    - content for explore: 
+
+3. Products
+
+4. Contact & Interview
+    - flex row
+
+5. Footer
+    LEFT
+        - Address
+            Branch Address
+                Canada/USA branch address
+            Registered Address
+                231, Gadhavi Faliyu, At.Ramodadi, Ta.Patlad, Anand, Gujarat, India – 388150
+            Corporate & Warehouse address
+                PLOT No. 7/4-H-12, Housing Colony, Near GIDC – Industrial Estate Office and Elecon hall, Vitthal Udhyognagar (VU Nagar), Ta. & Dist. Anand, GUJARAT – 388121
+
+    CENTRE
+        - Email
+        - Phone number
+        - Mobile number
+    RIGHT
+        - map integration (for country specific): for now put dummy data map
