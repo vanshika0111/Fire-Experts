@@ -4,7 +4,7 @@
     Check on click event on "Fire Experts" --> it redirects to another website
     Page linking: href tags
     Navbar should be fixed (sticky)
-    List of navbar: "Hero" --> hero section 
+    List of navbar: "Home" --> hero section 
                     "About"
                     "Explore" --> button in about (Path: Explore.md)
                     "Products" 
@@ -15,7 +15,7 @@
 2. About
     - add a "Explore More button" to redirect to a new Page
     - photo still not available
-    - content for explore: 
+    - content for explore: Explore.md
 
 3. Products
 
@@ -37,4 +37,8 @@
         - Phone number
         - Mobile number
     RIGHT
-        - map integration (for country specific): for now put dummy data map
+        - map integration (for country specific): for now, put dummy data map
+
+6. Database connectivity - Firebase
+
+7. Domain register
